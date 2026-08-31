@@ -12,5 +12,5 @@ Repositorio de ejercicios y casos de prueba para la asignatura Seminario de Inge
 
 - Rubén Darío Fúquene Castiblanco - 20192020004
 - Santiago Barbosa Murcia - 20211020034
-- Daniel Santiago Espindola Ortiz - 20192020004
+- Daniel Santiago Espindola Ortiz - 20182020053
 - Julián David Pérez Chaparro -
